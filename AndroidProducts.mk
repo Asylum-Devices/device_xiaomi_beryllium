@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/validus_beryllium.mk
+    $(LOCAL_DIR)/asylum_beryllium.mk
